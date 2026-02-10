@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="source.gif" alt="Header" width="300"/>
+  <img src="source.gif" alt="Header" width="250"/>
 
 
 penetration tester & academic researcher
